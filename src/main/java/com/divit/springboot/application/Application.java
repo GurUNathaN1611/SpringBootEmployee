@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 //SpringApplication
+//new comment
 @SpringBootApplication
 @ComponentScan("com.divit.springboot.application")
 public class Application {
